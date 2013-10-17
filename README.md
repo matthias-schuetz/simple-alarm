@@ -3,7 +3,7 @@ Simple Alarm
 
 ## A very basic alarm clock for showing a reminder message at a specified time
 
-There are many different possibilities to set up reminders and alarms in Windows. For those who want a simple alarm clock which does nothing more than displaying text at a specified time, SimpleAlarm should do the job.
+There are many different possibilities to set up reminders and alarms in Windows. For those who want a simple alarm clock which does nothing more than displaying text at a specified time, Simple Alarm should do the job.
 
 <img src="http://matthias-schuetz.github.com/simplealarm/simplealarm.png" />
 
@@ -17,4 +17,4 @@ Microsoft Windows
 
 ## License
 
-SimpleAlarm is released under the MIT license.
+Simple Alarm is released under the MIT license.
